@@ -1,0 +1,10 @@
+h1.separator-left {
+  margin-bottom: 1.4rem;
+  &::after {
+    margin: 0.7rem auto 0;
+  }
+}
+
+.multiline {
+  white-space: pre;
+}
